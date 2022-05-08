@@ -1,0 +1,8 @@
+C:\Users\Tara\Desktop\مشق\تولید محتوا\پودمان ۵\S6\S6\bin\Debug\S6.exe.config
+C:\Users\Tara\Desktop\مشق\تولید محتوا\پودمان ۵\S6\S6\bin\Debug\S6.exe
+C:\Users\Tara\Desktop\مشق\تولید محتوا\پودمان ۵\S6\S6\bin\Debug\S6.pdb
+C:\Users\Tara\Desktop\مشق\تولید محتوا\پودمان ۵\S6\S6\obj\Debug\S6.csproj.AssemblyReference.cache
+C:\Users\Tara\Desktop\مشق\تولید محتوا\پودمان ۵\S6\S6\obj\Debug\S6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tara\Desktop\مشق\تولید محتوا\پودمان ۵\S6\S6\obj\Debug\S6.csproj.CoreCompileInputs.cache
+C:\Users\Tara\Desktop\مشق\تولید محتوا\پودمان ۵\S6\S6\obj\Debug\S6.exe
+C:\Users\Tara\Desktop\مشق\تولید محتوا\پودمان ۵\S6\S6\obj\Debug\S6.pdb

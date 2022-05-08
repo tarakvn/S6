@@ -17,6 +17,7 @@ namespace S6
             Console.WriteLine("Squarad number: " + square);
             Console.WriteLine("Number to the power of two: " + power);
             Console.ReadKey();
+
         }
     }
 }
